@@ -24,13 +24,4 @@ Work experience
   * Instituto de Investigación de Economía y Desarrollo - Universidad Nacional Toribio Rodríguez de Mendoza de Amazonas
   * Estudios Económicos y Estadísticos 
 
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-#Service and leadership
-#======
-#* Currently signed in to 43 different slack teams
+ 
