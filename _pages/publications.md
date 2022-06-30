@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: ""
+title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
@@ -15,9 +15,6 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
-
-Publications
----- 
 
 * "Impacto de la covid-19 en el desempeño académico universitario. Un análisis comparativo para la Universidad Nacional Toribio Rodríguez de Mendoza, en Amazonas (UNTRM-A)", _**Actualidades Pedagógicas**_,2022. DOI: [https://doi.org/10.19052/ap.vol1.iss77.2](https://doi.org/10.19052/ap.vol1.iss77.2) 
 
